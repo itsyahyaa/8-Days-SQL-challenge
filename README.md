@@ -1,1 +1,3 @@
-# 8-Days-SQL-challenge
+# 8 Week SQL Challenge
+
+All solutions were coded using Mysql.
